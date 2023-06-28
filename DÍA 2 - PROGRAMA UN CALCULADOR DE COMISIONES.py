@@ -59,6 +59,7 @@ print('Has ganado {} puntos! En total, acumulas {} puntos'.format(puntos_nuevos,
 puntos_nuevos1 = 350
 puntos_anteriores = 875
 print(f'Has ganado {puntos_nuevos1} puntos! En total, acumulas {puntos_nuevos + puntos_anteriores} puntos')
+print('Has ganado {} puntos! En total, acumulas {} puntos'.format(puntos_nuevos1 + puntos_anteriores))
 
 'Clase de Operadores Matematicos'
 a = 874
